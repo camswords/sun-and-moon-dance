@@ -9,6 +9,7 @@
   "author": "Cam Swords",
   "license": "ISC",
   "dependencies": {
+    "momentjs": "^1.1.16",
     "suncalc": "*"
   }
 }

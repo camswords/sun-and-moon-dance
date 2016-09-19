@@ -2,6 +2,11 @@
   "name": "sun-and-moon-dance",
   "version": "1.0.0",
   "dependencies": {
+    "momentjs": {
+      "version": "1.1.16",
+      "from": "momentjs@latest",
+      "resolved": "https://registry.npmjs.org/momentjs/-/momentjs-1.1.16.tgz"
+    },
     "suncalc": {
       "version": "1.7.0",
       "from": "suncalc@*",
