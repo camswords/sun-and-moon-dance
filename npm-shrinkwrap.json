@@ -1,0 +1,11 @@
+{
+  "name": "sun-and-moon-dance",
+  "version": "1.0.0",
+  "dependencies": {
+    "suncalc": {
+      "version": "1.7.0",
+      "from": "suncalc@*",
+      "resolved": "https://registry.npmjs.org/suncalc/-/suncalc-1.7.0.tgz"
+    }
+  }
+}
