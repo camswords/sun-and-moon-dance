@@ -1,0 +1,11 @@
+{
+  "name": "sun-and-moon-dance",
+  "version": "1.0.0",
+  "description": "sun and moon dance.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camswords/sun-and-moon-dance.git"
+  },
+  "author": "Cam Swords",
+  "license": "ISC"
+}
